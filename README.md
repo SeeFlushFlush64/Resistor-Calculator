@@ -1,4 +1,4 @@
-# Resistor-Calculator
+# Resistor-Calculator (4, 5, 6-band resistors)
 My Project in Python Class in BSCpE
 
 Greetings!
